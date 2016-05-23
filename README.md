@@ -1,2 +1,2 @@
-# WLANfixeri (C++)
-Disable / Enable all network devices on Windows PC
+# WLANfixeri
+Disable / Enable all network devices on Windows PC (C++)
